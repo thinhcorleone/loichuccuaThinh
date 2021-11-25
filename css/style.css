@@ -16,7 +16,7 @@ a {
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-position-y: -15rem;
+    background-position-y: -18rem;
 }
 .buttons {
     display: flex;
@@ -109,7 +109,7 @@ a {
    
     box-shadow: 0 0 30px #eee;
     position: absolute;
-    margin-top: -1rem;
+    margin-top: 3rem;
     left: calc(50% - 100px);
   
     border-radius: 120px;
